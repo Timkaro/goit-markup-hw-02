@@ -35,6 +35,10 @@ li {
   color: #2e2f42;
 }
 
+.down .accent {
+  color: #f4f4fd;
+}
+
 .menu {
   font-weight: 500;
   color: #2e2f42;
@@ -42,7 +46,7 @@ li {
 
 .contact {
   font-style: normal;
-  color: currentColor;
+  color: #434455;
 }
 
 .menu:hover,
@@ -55,12 +59,14 @@ li {
 .hero-image {
   background-color: #2e2f42;
   color: #ffffff;
+  text-align: center;
 }
 
 .hero-image-title {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
+  letter-spacing: 0.02em;
 }
 
 .hero-image-btn {
@@ -89,6 +95,7 @@ li {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
+  text-align: center;
   text-transform: capitalize;
 }
 
