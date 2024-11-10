@@ -44,9 +44,9 @@ li {
   color: #2e2f42;
 }
 
-.contact .contact-link {
-  color: #434455;
+.contact-link {
   font-style: normal;
+  color: #434455;
 }
 
 .menu:hover,
