@@ -44,15 +44,15 @@ li {
   color: #2e2f42;
 }
 
-.contact {
+.contact-link {
   color: #434455;
   font-style: normal;
 }
 
 .menu:hover,
 .menu:focus,
-.contact:hover,
-.contact:focus {
+.contact-link:hover,
+.contact-link:focus {
   color: #404bbf;
 }
 
