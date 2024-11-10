@@ -21,7 +21,7 @@ li {
 }
 
 .logo {
-  font-family: "raleway", sans-serif;
+  font-family: "Raleway", sans-serif;
   letter-spacing: 0.03em;
   font-size: 18px;
   font-weight: 700;
@@ -45,8 +45,8 @@ li {
 }
 
 .contact {
-  font-style: normal;
   color: #434455;
+  font-style: normal;
 }
 
 .menu:hover,
